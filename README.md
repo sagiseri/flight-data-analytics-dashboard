@@ -61,11 +61,13 @@ Contains required Python libraries:
 
 ---
 
-### 6. `תרגיל מסכם`
-Final assignment document including:
-- Queries explanations
-- Screenshots of the dashboard
-- Full documentation of the project requirements
+### 6. Final Assignment Document
+
+This document includes:
+
+- Detailed explanations of SQL queries  
+- Screenshots of the dashboard  
+- Full documentation of the project requirements  
 
 ---
 

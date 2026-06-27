@@ -1,0 +1,8 @@
+streamlit
+pandas
+sqlite3
+matplotlib
+seaborn
+plotly
+numpy
+duckdb
